@@ -1,4 +1,5 @@
-# HR-Employee-Project-SQL-Power-Bi-
+# HR-Employee-Project-SQL-Power-Bi
+Author - Manoj Patil
 
 
 The dataset contains extensive HR data spanning two decades, from 2000 to 2020, and
